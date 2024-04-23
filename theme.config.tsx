@@ -3,6 +3,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
   logo: <span>JellyDart</span>,
+  darkMode: true,
   project: {
     link: 'https://github.com/ra341/jellydart',
   },
@@ -13,6 +14,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'JellyDart project',
   },
+  useNextSeoProps() {
+    return {
+      title: 'JellyDart'
+    }
+  }
 }
 
 export default config

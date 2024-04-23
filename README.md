@@ -1,8 +1,10 @@
 # Jellydart Docs
 
-Repo containing docs for [Jellyfin dart SDK](https://github.com/RA341/jellydart)
+This is a docs repo for [Jellyfin](https://jellyfin.org/) Dart SDK.
 
-[Deployed here](https://jellydart-docs.vercel.app/another)
+All docs are automatically updated from the main [repo](https://github.com/RA341/jellydart)
+
+[Deployment](https://jellydart-docs.vercel.app/)
 
 ## Local Development
 

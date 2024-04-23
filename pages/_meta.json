@@ -1,9 +1,17 @@
 {
   "index": "Introduction",
-  "Github": {
-    "title": "Github ↗",
+  "customdocs": "Docs",
+  "autogen": "Auto-generated Docs",
+  "Github-SDK": {
+    "title": "SDK Github ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://github.com/ra341/jellydart",
+    "newWindow": true
+  },
+  "Github-Docs": {
+    "title": "Docs Github ↗",
+    "type": "page",
+    "href": "https://github.com/ra341/jellydart-docs",
     "newWindow": true
   }
 }

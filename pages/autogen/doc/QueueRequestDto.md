@@ -1,0 +1,16 @@
+# jellydart.model.QueueRequestDto
+
+## Load the model package
+```dart
+import 'package:jellydart/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**itemIds** | **List<String>** | Gets or sets the items to enqueue. | [optional] [default to const []]
+**mode** | [**GroupQueueMode**](GroupQueueMode.md) | Enum GroupQueueMode. | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
